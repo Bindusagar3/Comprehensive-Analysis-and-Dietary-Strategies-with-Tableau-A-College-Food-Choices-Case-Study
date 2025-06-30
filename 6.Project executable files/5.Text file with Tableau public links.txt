@@ -1,0 +1,14 @@
+Story-The Impact of Childhood Food Preferences on Adult Choices:
+https://public.tableau.com/views/PROJECTFINAL_17511046146600/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dashboard-1-Lifestyle Overview
+https://public.tableau.com/views/PROJECTFINAL_17511046146600/LifestyleOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dashboard-2-Dietery habits and preferences
+https://public.tableau.com/views/PROJECTFINAL_17511046146600/Dieteryhabitsandpreferences?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dashboard-3-Health and Nutrition
+https://public.tableau.com/views/PROJECTFINAL_17511046146600/HealthandNutrition?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dashboard-4-Parental influence and eating out
+https://public.tableau.com/views/PROJECTFINAL_17511046146600/Parentalinfluenceandeatingout?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
